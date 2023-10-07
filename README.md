@@ -1,10 +1,13 @@
 # web-form-ui-field-detection
 ![](https://github.com/foduucom/web-form-ui-field-detection/blob/main/web-form-ui-field-detection%20banner.jpeg?raw=true)
-![](https://github.com/foduucom/web-form-ui-field-detection/blob/main/ui%20architecture.jpeg)
 
 
-## Model Overview
+
+## Overview
 The web-form-Detect model is a yolov8 object detection model trained to detect and locate ui form fields in images. It is built upon the ultralytics library and fine-tuned using a dataset of annotated ui form images.
+
+## Model Architecture
+![](https://github.com/foduucom/web-form-ui-field-detection/blob/main/ui%20architecture.jpeg)
 
 ## Intended Use
 The model is intended to be used for detecting details like Name, number, email, password, button, radio bullet, and so on fields in images. It can be incorporated into applications that require automated detection ui form fields from images.
