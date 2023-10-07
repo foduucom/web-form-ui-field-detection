@@ -1,4 +1,6 @@
 # web-form-ui-field-detection
+![](https://github.com/foduucom/web-form-ui-field-detection/blob/main/web-form-ui-field-detection%20banner.jpeg?raw=true)
+![](https://github.com/foduucom/web-form-ui-field-detection/blob/main/ui%20architecture.jpeg)
 
 
 ## Model Overview
